@@ -345,7 +345,3 @@ cd frontend && npm test      # Frontend: 140 tests
 ```
 
 ---
-
-## License
-
-[MIT License](./LICENSE) — Haris Kamal Rana
