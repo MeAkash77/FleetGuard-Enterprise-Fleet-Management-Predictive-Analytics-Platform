@@ -1,4 +1,4 @@
-# DriveVitals
+# FleetGuard
 
 **A fleet intelligence and Digital Twin platform that simulates vehicle fleets, generates structured telemetry, processes it through analytics engines, and delivers real-time fleet intelligence through a React dashboard.**
 
